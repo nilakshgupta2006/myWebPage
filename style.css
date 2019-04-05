@@ -1,0 +1,28 @@
+body {
+	font-family: Helvetica;
+	background-color: Aquamarine;
+}
+
+img {
+	border: 3px solid black;
+	float: left;
+	width: 30%;
+	margin-right: 20px;
+}
+
+div{
+	float: left;
+}
+
+mark {
+	background-color: Teal;
+	color: white;
+	padding: 10px;
+}
+
+hr {
+	height: 1px;
+	border: none;
+	background-color: red;
+
+}
